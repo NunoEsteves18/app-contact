@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meus Contactos</string>
+    <string name="strEtNomeEdit">Editar Nome</string>
+    <string name="strEtNumeroEdit">Editar Numero</string>
+    <string name="strBtnConfirmEdit">Confirm</string>
+    <string name="strBtnCancelrmEdit">Cancel</string>
+    <string name="strBtnRemoveNote">Remove</string>
+    <string name="strChangeNoMoment" />
+</resources>
